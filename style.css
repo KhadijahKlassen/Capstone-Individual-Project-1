@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Serif','san-serif';
+}
+
+body {
+    background: white;
+    color: black;
+}
+
+/* TOP SECTION OF THE CV  */
+
+.blue-box {
+    background-color: #eaf4ff;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+  }
+  
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/* SKILLS SECTION - PLACE THE ACTUAL ICONS */
+
+.skills {
+  border: 1px solid #0ef;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  }
+  
+  .skills h4 {
+    text-align: left;
+  }
+
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills ul li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .skills ul li img {
+    width: 40px;
+    height: 40px;
+  }
+
+/* Work experience  */
+
+.experience {
+  border: 1px solid #0ef;
+  padding: 10px;
+  border-radius: 15px;
+  text-align: none;
+  }
+  
+  .experience h4 {
+    margin-bottom: 15px;
+  }
+  
+  .experience p {
+    margin-top: 0;
+  }
+
+  /* Education  */
+  .education {
+    border: 1px solid #0ef;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: none;
+  }
+  
+  .education h4 {
+    margin-bottom: 15px;
+  }
+
+  /* Educational history   */
+  
+  .education {
+    border: 1px solid #0ef;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: none;
+  }
+  
+  .education h4 {
+    margin-bottom: 15px;
+  }
+
+  /* Certifications */
+
+  .certifications {
+    border: 1px solid #0ef;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: none;
+  }
+  
+  .certifications h4 {
+    margin-bottom: 15px;
+  }
+
+  /* Languages */
+
+  .languages {
+    border: 1px solid #0ef;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: none;
+  }
+  
+  .languages h4 {
+    margin-bottom: 15px;
+  }
+
+/* Border */
+
+hr {
+    border-color: none;
+    border: none;
+  }
+
+
+
